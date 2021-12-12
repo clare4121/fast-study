@@ -1,1 +1,1 @@
-alert('fast-cahe');
+alert('AAA');
